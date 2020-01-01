@@ -7,7 +7,6 @@ clf = svm.SVC(kernel='linear')
 features_train = features_train[:len(features_train)/100]
 labels_train = labels_train[:len(labels_train)/100]
 
-
 # Training classifier
 clf.fit(features_train, labels_train)
 
