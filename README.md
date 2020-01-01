@@ -8,6 +8,7 @@ Algorithms under the belt so far;
 
 Supervised 
 - Classification 
+
 -- Naive Bayes
 -- Support Vector Machines
 -- Decision Trees
