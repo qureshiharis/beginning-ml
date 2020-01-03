@@ -1,6 +1,6 @@
 from sklearn.linear_model import LinearRegression
 
-# Create classifier and fit data
+# Create model and fit data
 reg = LinearRegression().fit(X, y)
 
 # Calculate score metric
