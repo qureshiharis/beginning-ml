@@ -1,13 +1,13 @@
 # beginning-ml
 
-Examples to show code of ML algorithms 
+Examples to show code of ML algorithms
 
 (However dataset and features need to be provided in order to run)
 
-Algorithms under the belt so far; 
+Algorithms under the belt so far;
 
-Supervised 
-- Classification 
+Supervised
+- Classification
 
 -- Naive Bayes
 -- Support Vector Machines
